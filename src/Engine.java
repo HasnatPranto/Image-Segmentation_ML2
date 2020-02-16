@@ -1,3 +1,7 @@
+/*
+* https://www.imageeprocessing.com/2017/12/k-means-clustering-on-rgb-image.html#
+* ^This type of explanation really helps to develop the implementation of such Algorithms, a BIG thumbs up;)
+* */
 import javax.imageio.ImageIO;
 import java.awt.*;
 import java.awt.image.BufferedImage;
